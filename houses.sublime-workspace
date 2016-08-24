@@ -1,0 +1,334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tip",
+				"tip_cli"
+			],
+			[
+				"str_",
+				"str_tipo"
+			],
+			[
+				"str",
+				"str_zona"
+			],
+			[
+				"price",
+				"priceOn"
+			],
+			[
+				"preus",
+				"preus_mesos"
+			],
+			[
+				"word",
+				"wordlimit"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"in",
+				"inmob"
+			],
+			[
+				"preu",
+				"preu_max"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tomevet/Feina/Sanagym/web"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/properties6/panel/includes/functionsClients.php",
+		"/Applications/MAMP/htdocs/properties6/panel/includes/functionsProperties.php",
+		"/Applications/MAMP/htdocs/properties6/includes/mysql.php",
+		"/Applications/MAMP/htdocs/properties/panel/includes/functionsClients.php",
+		"/Applications/MAMP/htdocs/properties/includes/mysql.php",
+		"/Applications/MAMP/htdocs/properties/panel/bk-client-edit.php",
+		"/Applications/MAMP/htdocs/properties/panel/bk-property-view.php",
+		"/Applications/MAMP/htdocs/properties/panel/includes/backend.class.php",
+		"/Users/tomevet/Feina/Staycreative/Dickinson/dickinson.sublime-project",
+		"/Users/tomevet/Downloads/clients (1).sql",
+		"/Users/tomevet/Feina/Staycreative/Dickinson/sql/client_tipo.sql",
+		"/Users/tomevet/Feina/Staycreative/Dickinson/sql/dkp2015_db.sql",
+		"/Applications/MAMP/htdocs/properties/panel/includes/functionsProperties.php",
+		"/Users/tomevet/Feina/Staycreative/info.txt",
+		"/Users/tomevet/Feina/Staycreative/Dickinson/villas/villas7/backend.class.php",
+		"/Applications/MAMP/htdocs/villas/panel/includes/backend.class.php",
+		"/Applications/MAMP/htdocs/villas/panel/includes/functionsClients.php",
+		"/Applications/MAMP/htdocs/villas/panel/includes/functionsProperties.php",
+		"/Applications/MAMP/htdocs/properties/panel/bk-property-results.php",
+		"/Applications/MAMP/htdocs/villas/includes/mysql.php",
+		"/Applications/MAMP/htdocs/villas/includes/inmob.class.php",
+		"/Applications/MAMP/htdocs/properties/includes/inmob.class.php",
+		"/Applications/MAMP/htdocs/properties/includes/results-search-form.php",
+		"/Applications/MAMP/htdocs/properties/property-results.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/properties/properties4 2/functionsProperties.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/villas/villas6 2/functionsProperties.php",
+		"/Applications/MAMP/htdocs/villas/panel/bk-client-view.php",
+		"/Applications/MAMP/htdocs/villas/panel/bk-client-edit.php",
+		"/Applications/MAMP/htdocs/properties/panel/bk-client-view.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/villas/villas/panel/includes/backend.class.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/villas/villas6/backend.class.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/properties/properties3 2/panel/includes/backend.class.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/properties/properties3 2/panel/bk-client-edit.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/villas/villas/panel/bk-client-edit.php",
+		"/Applications/MAMP/htdocs/villas/property-view.php",
+		"/Applications/MAMP/htdocs/properties/property-view.php",
+		"/Applications/MAMP/htdocs/villas/panel/bk-property-view.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/villas/villas6/functionsClients.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/properties/properties4/functionsClients.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/properties/properties4/functionsProperties.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/properties/properties3 2/panel/includes/functionsClients.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/properties/properties3 2/panel/includes/functionsProperties.php",
+		"/Applications/MAMP/htdocs/properties/panel/includes/functions.php",
+		"/Applications/MAMP/htdocs/properties/lang/en.php",
+		"/Applications/MAMP/htdocs/properties/panel/bk-property-edit.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/properties/properties4/panel/includes/functionsClients.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/info.txt",
+		"/Users/tomevet/Downloads/IPTV.bundle-master/Contents/Resources/playlist.m3u",
+		"/Users/tomevet/Downloads/IPTV.bundle/Contents/Info.plist",
+		"/Applications/MAMP/htdocs/properties/index.php",
+		"/Applications/MAMP/htdocs/villas/property-results.php",
+		"/Applications/MAMP/htdocs/villas/index.php",
+		"/Applications/MAMP/htdocs/test/index.php",
+		"/Applications/MAMP/htdocs/villas/includes/home-search.php",
+		"/Applications/MAMP/htdocs/villas/includes/results-search-form.php",
+		"/Applications/MAMP/htdocs/villas/panel/includes/search-property.php",
+		"/Applications/MAMP/htdocs/villas/panel/bk-property-results.php",
+		"/Applications/MAMP/htdocs/test/property-rent.php",
+		"/Applications/MAMP/htdocs/test/property-sale.php",
+		"/Applications/MAMP/htdocs/test/sale-results.php",
+		"/Applications/MAMP/htdocs/properties/includes/footer.php",
+		"/Applications/MAMP/htdocs/villas/includes/footer.php",
+		"/Applications/MAMP/htdocs/properties/panel/includes/search-property.php",
+		"/Applications/MAMP/htdocs/villas/panel/bk-property-edit.php",
+		"/Applications/MAMP/htdocs/villas/panel/js/dropzone/carga_imagenes.php",
+		"/Applications/MAMP/htdocs/properties/panel/js/dropzone/carga_imagenes.php",
+		"/Applications/MAMP/htdocs/properties/panel/js/dropzone/guardar_imatges.php",
+		"/Applications/MAMP/htdocs/properties/panel/js/dropzone/img_server.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/comodidades.txt",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/tipos.sql",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/comodidades.sql",
+		"/Applications/MAMP/htdocs/villas/lang/en.php",
+		"/Users/tomevet/Documents/Feina/Staycreative/Dickinson/sql.sql",
+		"/Applications/MAMP/htdocs/betas/includes/mysql.php",
+		"/Applications/MAMP/htdocs/betas/panel/includes/functionsProperties.php",
+		"/Applications/MAMP/htdocs/betas/panel/includes/functionsClients.php",
+		"/Applications/MAMP/htdocs/test/rent-results.php",
+		"/Applications/MAMP/htdocs/villas/panel/bk-property-disponibilidad.php",
+		"/Applications/MAMP/htdocs/villas/panel/includes/reserves.class.php",
+		"/Applications/MAMP/htdocs/villas/panel/includes/calendar.php",
+		"/Applications/MAMP/htdocs/villas/includes/reserves.class.php",
+		"/Applications/MAMP/htdocs/test/backend/includes/reserves.class.php",
+		"/Applications/MAMP/htdocs/test/backend/bk-property-disponibilidad.php",
+		"/Applications/MAMP/htdocs/betas/index.php",
+		"/Applications/MAMP/htdocs/betas/includes/inmob.class.php",
+		"/Applications/MAMP/htdocs/test/css/style.css",
+		"/Applications/MAMP/htdocs/villas/css/style.css",
+		"/Users/tomevet/Desktop/firma.html",
+		"/Users/tomevet/Library/Mail/V2/MailData/Signatures/D43BEE24-1F60-4FE4-B15D-621A499D573B.mailsignature",
+		"/Users/tomevet/Library/Mail/V2/MailData/Signatures/D43BEE24-1F60-4FE4-B15D-621A499D573B.mailsignature.webarchive"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"imag_g",
+			"<?",
+			"thumbnail",
+			"pujaImatge",
+			"img_principal",
+			"tipus",
+			"clean0",
+			"getPropClient",
+			"propietats-clients",
+			"publicada",
+			"sp-price",
+			"info",
+			"llistarNoms",
+			"search-for-sale",
+			"exclusive",
+			"owl.carousel.min.js",
+			"owl.carousel.min.js:1",
+			"img_exist",
+			"imatgesServidor",
+			"exte",
+			"desde",
+			"wordlimit",
+			"20000000",
+			"2000000",
+			"200000",
+			"20000",
+			"num_prop_pagina",
+			"destac",
+			"destaca",
+			"destacadas",
+			"table",
+			"functions",
+			"girarData_primerAny",
+			"nova_reserva",
+			"boto_cerca",
+			"fun",
+			"su",
+			"funcio",
+			".''"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "houses.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
